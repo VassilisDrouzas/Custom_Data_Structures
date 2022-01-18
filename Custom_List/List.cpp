@@ -1,7 +1,7 @@
 #include "List.h"
 
 
-
+//Feel free to change the main() function to play around with the list functions! :)
 int main()
 {
 	std::cout << "Test 1 : " << std::endl << std::endl;
