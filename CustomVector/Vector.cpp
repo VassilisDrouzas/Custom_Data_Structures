@@ -2,7 +2,7 @@
 
 	//////////////////////////////  TEST  1  //////////////////////////
 
-
+//Feel free to edit the main() function in order to play around with the vector :)
 int main()
 {
 	std::cout << "Test 1 : " << std::endl << std::endl;
