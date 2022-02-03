@@ -139,7 +139,7 @@
 
 			data = temp;
 			temp = nullptr;
-			//delete[] temp;												//Debug Error? Why doesn't happen below too?
+			//delete[] temp;												
 		}
 		void push_front(T element) {
 			size++;
